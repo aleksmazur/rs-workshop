@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Some footer
 Changes from <main>
+=======
+Some footer
+>>>>>>> 80101b3 (add footer)
